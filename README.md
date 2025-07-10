@@ -1,9 +1,9 @@
-# R-template
+# SMaHT-DSA-figures
 
 ## Install
 
 Use pixi to setup with:
 ```
-pixi run setup
+pixi install && pixi run setup
 ```
 
